@@ -20,5 +20,4 @@ From: ubuntu:bionic
 
 %labels
     Alessandro Raveane
-    Version v0.0.1
-
+    Version v0.0.2
